@@ -1,3 +1,6 @@
+\c messagely
+-- \c messagely-test
+
 DROP TABLE IF EXISTS users;
 DROP TABLE IF EXISTS messages;
 
